@@ -1,0 +1,13 @@
+c:\users\steve.yeh25\documents\visual studio 2017\Projects\Kata_DeadAnts\Kata_DeadAnts\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\steve.yeh25\documents\visual studio 2017\Projects\Kata_DeadAnts\Kata_DeadAnts\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\steve.yeh25\documents\visual studio 2017\Projects\Kata_DeadAnts\Kata_DeadAnts\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\steve.yeh25\documents\visual studio 2017\Projects\Kata_DeadAnts\Kata_DeadAnts\bin\Debug\Kata_DeadAnts.dll
+c:\users\steve.yeh25\documents\visual studio 2017\Projects\Kata_DeadAnts\Kata_DeadAnts\bin\Debug\Kata_DeadAnts.pdb
+c:\users\steve.yeh25\documents\visual studio 2017\Projects\Kata_DeadAnts\Kata_DeadAnts\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\steve.yeh25\documents\visual studio 2017\Projects\Kata_DeadAnts\Kata_DeadAnts\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\steve.yeh25\documents\visual studio 2017\Projects\Kata_DeadAnts\Kata_DeadAnts\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\steve.yeh25\documents\visual studio 2017\Projects\Kata_DeadAnts\Kata_DeadAnts\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\steve.yeh25\documents\visual studio 2017\Projects\Kata_DeadAnts\Kata_DeadAnts\obj\Debug\Kata_DeadAnts.csproj.CoreCompileInputs.cache
+c:\users\steve.yeh25\documents\visual studio 2017\Projects\Kata_DeadAnts\Kata_DeadAnts\obj\Debug\Kata_DeadAnts.dll
+c:\users\steve.yeh25\documents\visual studio 2017\Projects\Kata_DeadAnts\Kata_DeadAnts\obj\Debug\Kata_DeadAnts.pdb
+C:\Users\steve.yeh25\documents\visual studio 2017\Projects\Kata_DeadAnts\Kata_DeadAnts\obj\Debug\Kata_DeadAnts.csprojResolveAssemblyReference.cache
